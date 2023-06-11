@@ -1,0 +1,4 @@
+https://docs.python.org/3/library/asyncio-queue.html
+https://go.dev/doc/tutorial/getting-started
+https://openai.com/blog/chatgpt
+https://nodejs.org/en
